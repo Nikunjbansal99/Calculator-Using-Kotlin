@@ -6,5 +6,5 @@ It is developed using [kotlin](https://kotlinlang.org/) & [TornadoFX](https://gi
 
 # Screenshots 
 <p float="left">
- <img src="https://github.com/Nikunjbansal99/Calculator-Using-Kotlin/blob/master/Capture2.JPG" width="200" height="400" />
+ <img src="https://github.com/Nikunjbansal99/Calculator-Using-Kotlin/blob/master/Capture2.JPG" width="250" height="400" />
 </p>
