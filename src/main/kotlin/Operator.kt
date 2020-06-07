@@ -12,14 +12,10 @@ sealed class Operator(val x: Long) {
         }
     }
     class mult(x: Long) : Operator(x) {
-        override fun calculate(y: Long): Long {
-            return x * y
-        }
+        override fun calculate(y: Long): Long = x * y
     }
     class div(x: Long) : Operator(x) {
-        override fun calculate(y: Long): Long {
-            return x / y
-        }
+        override fun calculate(y: Long): Long = x / y
     }
 }
 
