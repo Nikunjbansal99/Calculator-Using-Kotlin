@@ -1,7 +1,7 @@
 # Calculator-Using-Kotlin
 This project is created under [30 Days Of Kotlin]
 
-#About
+# About
 It is developed using [kotlin](https://kotlinlang.org/) & [TornadoFX](https://github.com/edvin/tornadofx)
 
 # Screenshots 
