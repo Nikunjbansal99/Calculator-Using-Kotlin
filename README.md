@@ -11,6 +11,6 @@ It is developed using [kotlin](https://kotlinlang.org/) & [TornadoFX](https://gi
 
 # Certificate
 <p float="center">
- <img src="https://github.com/Nikunjbansal99/Calculator-Using-Kotlin/blob/master/30DaysKotlin.png" width="250" height="400" />
+ <img src="https://github.com/Nikunjbansal99/Calculator-Using-Kotlin/blob/master/30DaysKotlin.png" />
 </p>
 
